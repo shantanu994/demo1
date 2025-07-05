@@ -3,6 +3,7 @@
 git commands
 
 ```bash
+git clone url 
 
 git add .
 
